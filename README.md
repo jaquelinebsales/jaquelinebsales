@@ -40,11 +40,3 @@ Aqui estão alguns dos meus repositórios favoritos:
 
 ---
 
-### 💬 Vamos conversar!
-Se você quiser colaborar em algum projeto, trocar ideias ou apenas bater um papo, sinta-se à vontade para entrar em contato. Adoro conhecer novas pessoas e aprender coisas novas!
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaquelinebsales&color=blue" alt="Visualizações do perfil" />
-</p>
