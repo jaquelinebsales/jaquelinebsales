@@ -7,7 +7,7 @@
 ---
 
 ### 👋 Sobre mim
-Sou uma entusiasta da tecnologia e adoro aprender coisas novas. Aqui no GitHub, compartilho meus projetos, estudos e experiências. Seja bem-vindo(a)!
+Sou uma entusiasta da tecnologia, amo estudar e ler sobre programação. Aqui no GitHub, compartilho meus projetos, estudos e experiências. Seja bem-vindo(a)!
 
 ---
 
