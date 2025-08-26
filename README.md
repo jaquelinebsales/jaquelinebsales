@@ -12,7 +12,7 @@ Sou uma entusiasta da tecnologia, amo estudar e ler sobre programação. Aqui no
 ---
 
 ### 🚀 Habilidades
-- **Linguagens:** JavaScript, TypeScript, Php(básico), HTML, CSS
+- **Linguagens:** JavaScript, TypeScript, Php(básico), HTML, CSS, C, Python
 - **Ferramentas e Tecnologias:** Git, GitHub, VS Code, GitHub Desktop
 ---
 
