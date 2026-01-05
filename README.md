@@ -15,14 +15,6 @@ Sou uma entusiasta da tecnologia, amo estudar e ler sobre programação. Aqui no
 - **Ferramentas e Tecnologias:** Git, GitHub, VS Code, GitHub Desktop, Vercel
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Jaqueline's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaquelinebsales&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinebsales&layout=compact&theme=dracula)
-
----
-
 ### 🌟 Projetos Destacados
 Aqui estão alguns dos meus repositórios favoritos:
 
